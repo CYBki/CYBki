@@ -1,4 +1,4 @@
-# Hi there, I'm CYBki 👋
+# Hi there, I'm Seyit Ali 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3200&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;LLMs+%26+Computer+Vision+Practitioner;MLOps+%26+Experiment+Tracking+Enthusiast;Optimizing+Models+for+Real-World+Latency" alt="Typing intro">
