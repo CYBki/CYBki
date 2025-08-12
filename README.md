@@ -31,7 +31,8 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 | Food-classification | Multi-class food image classifier | PyTorch | Food-101 (~101k images); ~85% top-1; sub-30ms ONNX inference |
 | Computer-Vision-MLOps-Toolkit | Reusable CV experiment & tracking toolkit | PyTorch, ClearML/MLflow, FastAPI | Standardized templates cut setup time by ~60% |
 | Research-Learning-for-LLM-s | LLM experiments, notes & prototypes | Python, notebooks | Tasks: summarization & Q/A; Benchmarks: SQuAD, GSM8K |
-| bulAR | AR note‑taking concept for physical books/spaces | Unity, C# | Microsoft for Startups support |
+| bulAR | AR note-taking concept for physical books/spaces | Unity, C# | Microsoft for Startups Founders Hub support |
+
 
 <!-- Add concrete metrics when ready -->
 
