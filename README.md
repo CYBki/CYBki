@@ -101,7 +101,7 @@ I can help with:
 | 06/2025 – 07/2025 | AI Engineer Intern | Mavinci | Experiment tracking, labeling docs, multi-runtime benchmarks, containerized stack |
 | 01/2025 – 02/2025 | AI Engineer Intern | Huawei | ML/LLM study, preprocessing, training & optimization |
 | 11/2024 – 01/2025 | AI Engineer Intern | Ucanble Technology | Vehicle detection & classification (YOLO), real-time CV |
-| 07/2024 – 09/2024 | AI Intern | ArVis Technology | Energy systems DS project (Streamlit) |
+| 07/2024 – 09/2024 | AI Engineer Intern | ArVis Technology | Energy systems DS project (Streamlit) |
 | 12/2023 – 12/2024 | Founder | bulAR | AR note-taking concept, Unity prototype |
 
 ---
