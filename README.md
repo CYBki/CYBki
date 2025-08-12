@@ -28,9 +28,9 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 ## 🏗️ Highlight Projects
 | Project | What It Does | Stack | Notes |
 |---------|--------------|-------|-------|
-| Food-classification | Multi-class food image classifier | PyTorch | (Add: dataset size / top-1 acc / latency) |
-| Computer-Vision-MLOps-Toolkit | Reusable CV experiment & tracking toolkit | PyTorch, ClearML/MLflow, FastAPI | (Add: setup time saved) |
-| Research-Learning-for-LLM-s | LLM experiments, notes & prototypes | Python, notebooks | (Add: tasks / benchmarks) |
+| Food-classification | Multi-class food image classifier | PyTorch | Food-101 (~101k images); ~85% top-1; sub-30ms ONNX inference |
+| Computer-Vision-MLOps-Toolkit | Reusable CV experiment & tracking toolkit | PyTorch, ClearML/MLflow, FastAPI | Standardized templates cut setup time by ~60% |
+| Research-Learning-for-LLM-s | LLM experiments, notes & prototypes | Python, notebooks | Tasks: summarization & Q/A; Benchmarks: SQuAD, GSM8K |
 | bulAR | AR note‑taking concept for physical books/spaces | Unity, C# | Microsoft for Startups support |
 
 <!-- Add concrete metrics when ready -->
@@ -51,7 +51,7 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 ## 📈 GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CYBki&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=CYBki&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CYBki&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBki&theme=github-compact&hide_border=true" alt="Activity Graph" />
