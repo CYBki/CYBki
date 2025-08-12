@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Mission
-Design and deploy practical AI systems (LLMs + Computer Vision) with a strong emphasis on reproducibility, performance, and end‑to‑end observability—turning research experimentation into maintainable production workflows.
+Design and deploy practical AI systems (LLMs + Computer Vision) with a strong emphasis on reproducibility, performance, and end-to-end observability—turning research experimentation into maintainable production workflows.
 
 ---
 
@@ -32,7 +32,6 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 | Computer-Vision-MLOps-Toolkit | Reusable CV experiment & tracking toolkit | PyTorch, ClearML/MLflow, FastAPI | Standardized templates cut setup time by ~60% |
 | Research-Learning-for-LLM-s | LLM experiments, notes & prototypes | Python, notebooks | Tasks: summarization & Q/A; Benchmarks: SQuAD, GSM8K |
 | bulAR | AR note-taking concept for physical books/spaces | Unity, C# | Microsoft for Startups Founders Hub support |
-
 
 <!-- Add concrete metrics when ready -->
 
@@ -122,7 +121,7 @@ I can help with:
 ---
 
 ## ✅ Operating Principles
-1. Reproducibility over ad‑hoc speed
+1. Reproducibility over ad-hoc speed
 2. Measure before optimizing
 3. Document as you build
 4. Containerize & version everything critical
@@ -143,7 +142,6 @@ LinkedIn: www.linkedin.com/in/seyit-ali-yorğun
 Linktree: https://linktr.ee/Seyit_Ali
 <!-- Phone intentionally omitted for privacy -->
 
-
 ## 🧾 Quick Stats
 ![Profile views](https://komarev.com/ghpvc/?username=CYBki&style=flat&color=blue)
 ![Followers](https://img.shields.io/github/followers/CYBki?style=flat)
@@ -162,4 +160,3 @@ Serving:       FastAPI
 Real-Time:     OpenCV
 Tooling:       Docker | Streamlit | Unity (C#)
 Domains:       LLMs | Computer Vision | MLOps | AR+AI
-```
