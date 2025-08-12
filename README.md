@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Mission
-Design and deploy practical AI systems (LLMs + Computer Vision) with a strong emphasis on reproducibility, performance, and end‑to‑end observability—turning research experimentation into maintainable production workflows.
+Design and deploy practical AI systems (LLMs + Computer Vision) with a strong emphasis on reproducibility, performance, and end-to-end observability—turning research experimentation into maintainable production workflows.
 
 ---
 
@@ -31,7 +31,7 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 | Food-classification | Multi-class food image classifier | PyTorch | Food-101 (~101k images); ~85% top-1; sub-30ms ONNX inference |
 | Computer-Vision-MLOps-Toolkit | Reusable CV experiment & tracking toolkit | PyTorch, ClearML/MLflow, FastAPI | Standardized templates cut setup time by ~60% |
 | Research-Learning-for-LLM-s | LLM experiments, notes & prototypes | Python, notebooks | Tasks: summarization & Q/A; Benchmarks: SQuAD, GSM8K |
-| bulAR | AR note‑taking concept for physical books/spaces | Unity, C# | Microsoft for Startups support |
+| bulAR | AR note-taking concept for physical books/spaces | Unity, C# | Microsoft for Startups Founders Hub support |
 
 <!-- Add concrete metrics when ready -->
 
@@ -51,7 +51,7 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 ## 📈 GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CYBki&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=CYBki" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CYBki&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBki&theme=github-compact&hide_border=true" alt="Activity Graph" />
@@ -121,7 +121,7 @@ I can help with:
 ---
 
 ## ✅ Operating Principles
-1. Reproducibility over ad‑hoc speed
+1. Reproducibility over ad-hoc speed
 2. Measure before optimizing
 3. Document as you build
 4. Containerize & version everything critical
@@ -142,7 +142,6 @@ LinkedIn: www.linkedin.com/in/seyit-ali-yorğun
 Linktree: https://linktr.ee/Seyit_Ali
 <!-- Phone intentionally omitted for privacy -->
 
-
 ## 🧾 Quick Stats
 ![Profile views](https://komarev.com/ghpvc/?username=CYBki&style=flat&color=blue)
 ![Followers](https://img.shields.io/github/followers/CYBki?style=flat)
@@ -161,4 +160,3 @@ Serving:       FastAPI
 Real-Time:     OpenCV
 Tooling:       Docker | Streamlit | Unity (C#)
 Domains:       LLMs | Computer Vision | MLOps | AR+AI
-```
