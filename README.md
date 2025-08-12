@@ -127,14 +127,6 @@ I can help with:
 4. Containerize & version everything critical
 5. Benchmark with real latency / accuracy / cost signals
 
----
-
-## 🧪 Fun / Personality
-- Blending AR interfaces with perception models
-- Enjoy granular runtime benchmarking
-- Founder mindset from building bulAR
-
----
 
 ## 🔗 Connect
 Email: seyitaliyorgun@gmail.com  
