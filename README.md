@@ -57,6 +57,7 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBki&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
 
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=CYBki)
 ---
 
 ## 🧩 Current Focus
