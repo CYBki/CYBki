@@ -56,7 +56,6 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBki&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
-
 ---
 
 ## 🧩 Current Focus
