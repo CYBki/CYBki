@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=3200&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;LLMs+%26+Computer+Vision+Practitioner;MLOps+%26+Experiment+Tracking+Enthusiast;Optimizing+Models+for+Real-World+Latency" alt="Typing intro">
 </p>
 
----
 
 ## 🚀 Mission
 Design and deploy practical AI systems (LLMs + Computer Vision) with a strong emphasis on reproducibility, performance, and end-to-end observability—turning research experimentation into maintainable production workflows.
