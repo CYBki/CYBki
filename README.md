@@ -49,11 +49,11 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 
 ## 📈 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CYBki&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
- <img src="https://streak-stats-phi.vercel.app/?user=CYBki&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cybki&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=cybki&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBki&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybki&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 
