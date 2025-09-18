@@ -48,13 +48,9 @@ Design and deploy practical AI systems (LLMs + Computer Vision) with a strong em
 ---
 
 ## 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybki&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=CYBki&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cybki&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cybki&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybki&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" /> 
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybki&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+
 
 
 ## 🧩 Current Focus
